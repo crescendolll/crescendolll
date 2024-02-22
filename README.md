@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [QuickQuizz](quickquizz.me)
 
-- 🌱 I’m currently learning **Rails, Python and API development**
-
-- 📫 How to reach me **tensaemamo@protonmail.com**
-
-- 📄 Know about my experiences [linkedin.com/in/tmamo](linkedin.com/in/tmamo)
+- 🌱 I’m currently learning **Rails and API development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
