@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tinsi</h1>
 <h3 align="center">A passionate backend developer from Berlin</h3>
 
-- 🔭 I’m currently working on [QuickQuizz](quickquizz.me)
-
 - 🌱 I’m currently learning **Golang and Concurrency for API development**
 
 <h3 align="left">Connect with me:</h3>
